@@ -190,7 +190,7 @@ var GAME = {
             reset.onclick = GAME.resetGame;
             ADAPTER.load();
             GAME.setup();
-            setInterval(GAME.gameLoop, 100);
+            setInterval(GAME.gameLoop, 50);
         }
     }
 
