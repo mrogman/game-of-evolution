@@ -1,6 +1,10 @@
-# Darwin's Game of Evolution
+# Game of Evolution
 
-Check out a live running version [on my website](http:/j3rn.com/goe).
+This is a fork of the [original](https://github.com/J3RN/game-of-evolution) Game of Evolution created by j3rn.
+
+The intention of this fork is to graduallly increase the complexity and accuracy of the game as it pertains to evolutionary biology in the natural world.
+
+*Live demo coming soon.*
 
 ## Running
 - Simply open `index.html` in your browser.
